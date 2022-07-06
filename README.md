@@ -23,7 +23,7 @@ TBD
   * implement a grid for the golf course that the toolbox item can snap to
   * Create a screen for starting the game
   
-* ** Phase 2**
+* **Phase 2**
   * Create a golf swing action that allows the user to choose a power and angle
   * Create a golf ball that moves based on the user's swing
   * Create a hole for the golf course that the golf ball can roll into
