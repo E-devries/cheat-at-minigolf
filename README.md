@@ -7,6 +7,12 @@ This program is a 2d puzzle game where the goal is to get a perfect score in min
 
 This game is written in python using the pygame library. The main goal of this project is to gain experience in python programming, software design and architecture, and developing a complete program from start to finish using a fun, low-stakes goal. 
 
+### Specs
+
+* Python Version : 3.10.4
+* Pygame Version : 2.1.2
+
+
 ## How to install and Run
 
 TBD
